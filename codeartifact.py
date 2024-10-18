@@ -167,11 +167,6 @@ visualizeBlockchain(blockchain)
 
 
 # In[2]:
-
-
-import hashlib
-import time
-
 def generate_large_input(size_in_kb):
     """Generate a large string of the specified size in KB."""
     return "a" * (size_in_kb * 1024)  # Generate a string of 'a' repeated to reach the desired size
