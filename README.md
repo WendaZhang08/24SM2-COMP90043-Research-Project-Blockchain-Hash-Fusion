@@ -1,17 +1,17 @@
 # Blockchain & Hash Function Research Project
 
-This repository contains the implementation and analysis code for the COMP90043 Cryptography and Security research project "The Crucial Role of Hash Functions in Blockchain: The Fusion of Cryptography and Decentralization".
+This repository contains the implementation and analysis code for the **COMP90043 Cryptography and Security research project "The Crucial Role of Hash Functions in Blockchain: The Fusion of Cryptography and Decentralization"**.
 
 ## Project Overview
 
-This project explores the critical role of cryptographic hash functions, particularly SHA-256, in ensuring the security and data integrity of decentralized blockchain systems. We implement a small-scale blockchain to demonstrate key concepts and analyze the performance of various hash functions.
+This project explores the critical role of cryptographic hash functions, particularly **SHA-256**, in ensuring the security and data integrity of decentralized blockchain systems. We implement a **small-scale blockchain** to demonstrate key concepts and analyze the performance of various hash functions.
 
 ## Key Features
 
-- Implementation of a basic blockchain structure
-- Demonstration of Proof of Work (PoW) consensus mechanism
-- Visualization of blockchain structure and tampering effects
-- Performance comparison of different hash functions (SHA-256, SHA-224, SHA-1, MD5)
+- Implementation of a **basic blockchain structure**
+- Demonstration of **Proof of Work (PoW)** consensus mechanism
+- Visualization of blockchain structure and **tampering** effects
+- **Performance comparison** of different hash functions (SHA-256, SHA-224, SHA-1, MD5)
 
 ## File Structure
 
@@ -50,14 +50,14 @@ The project includes:
 
 ## Research Findings
 
-- Demonstrated the tamper-evident nature of blockchain using SHA-256
+- Demonstrated the **tamper-evident** nature of blockchain using **SHA-256**
 - Analyzed the performance of various hash functions in different data scenarios
-- Explored the relationship between hash functions, blockchain security, and decentralization
+- Explored the relationship between **hash functions**, **blockchain security**, and **decentralization**
 
 ## Future Work
 
 - Implement more advanced attack simulations (e.g., 51% attack, Sybil attack)
-- Explore quantum-resistant cryptographic algorithms
+- Explore **quantum-resistant** cryptographic algorithms
 - Investigate more efficient consensus mechanisms
 
 ## Contributors
