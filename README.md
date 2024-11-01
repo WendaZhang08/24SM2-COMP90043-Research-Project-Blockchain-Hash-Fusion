@@ -60,7 +60,7 @@ The project includes:
 - Explore **quantum-resistant** cryptographic algorithms
 - Investigate more efficient consensus mechanisms
 
-## Contributors
+## Authors
 
 - [Langze Lu](https://github.com/LangzeL) - langzel@student.unimelb.edu.au - 1185039
 - [Wenda Zhang](https://github.com/WendaZhang08) - wendaz@student.unimelb.edu.au - 1126164
